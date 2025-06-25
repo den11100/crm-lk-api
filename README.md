@@ -195,7 +195,7 @@ X-Api-Key: {your_api_key}
 
 
 
-# API: Получение свободных ячеек
+# API: Получение свободных ячеек  начиная с завтра на 13 дней вперёд
 
 Метод `POST /api/lk/schedule/get-free-slots`
 
